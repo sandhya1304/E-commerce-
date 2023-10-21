@@ -1,0 +1,47 @@
+ .row-contactUs {
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 65px;
+  }
+
+  col-md-6 {
+    flex: 1;
+  }
+
+  .col-md-4 {
+    flex: 1;
+    background-color: #f4f4f4;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 40px;
+  }
+
+  .bg-dark {
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 35px;
+  }
+
+  .text-justify {
+    text-align: center;
+  }
+
+  p {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-right: 30px;
+    font-weight: 400;
+  }
+
+p svg {
+  font-size: 30px;
+  margin-right: 10px;
+  color: black;
+} 

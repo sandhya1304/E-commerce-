@@ -1,0 +1,21 @@
+
+.row.aboutus {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  
+  .col-md-6 img {
+    width: 100%;
+    height: auto; 
+ 
+  }
+  
+  .col-md-4 p.text-justify {
+    text-align:center;
+    padding-top: 150px;
+    margin-left: 100px;
+  }
+  
+ 
+  
